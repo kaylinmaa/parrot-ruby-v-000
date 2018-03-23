@@ -1,1 +1,3 @@
-def parrot()
+def parrot("Squak!")
+  puts parrot
+end
